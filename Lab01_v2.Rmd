@@ -1,0 +1,17 @@
+---
+title: "Lab 01"
+author: "Sean Skinner"
+date: "2024-10-31"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+library(ggplot2)
+library(sf)
+library(tidyverse)
+```
+
